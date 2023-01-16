@@ -1,5 +1,6 @@
-package de.itchristmann.ICERP.entity;
+package de.itchristmann.ICERP.repository;
 
+import de.itchristmann.ICERP.entity.Firma;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
